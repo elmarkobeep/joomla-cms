@@ -10,3 +10,7 @@
 defined('_JEXEC') or die;
 
 include __DIR__ . '/component.php';
+
+s
+	das
+	d
